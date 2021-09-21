@@ -11,6 +11,7 @@ namespace PDPA.Controllers
 {
     public class HomeController : Controller
     {
+        //Test edit by nan
         public ActionResult Index()
         {
             return View();
